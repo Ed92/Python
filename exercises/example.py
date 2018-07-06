@@ -6,6 +6,9 @@ Created on Thu Jun 28 16:57:44 2018
 @author: ed
 """
 
+import pygame
+
+
 spam = 'Hello World'
 
 print(spam.upper())
